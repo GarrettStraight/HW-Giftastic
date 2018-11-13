@@ -34,7 +34,7 @@ $("#animalSwitch").on("click", "button", function(res){
 
 /////////////////Searching Giphy part
 ///api key from giphy
-var apikey = "dc6zaTOxFJmzC"//"6rvZikSkdbHSZ8jxAXPHuGvVUge4Yj0T";
+var apikey = "dc6zaTOxFJmzC";
 
 //host and path
 var fullpath = "https://api.giphy.com/v1/gifs/search";
